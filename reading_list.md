@@ -22,3 +22,8 @@ Compensatory mutations
 Chip data for adapted populations
 
 [MALADAPTED project](http://mega.bioanth.cam.ac.uk/data_access.html)
+
+
+# Writing Code
+
+[Good enough practices in scientific computing, Greg Wilson *et al..  2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
