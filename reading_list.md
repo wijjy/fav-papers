@@ -26,5 +26,5 @@ Chip data for adapted populations
 
 # Writing Code
 
-[Best Practices for Scientific Computing.  Grep Weilson *et al.* 2014](https://doi.org/10.1371/journal.pbio.1001745)  
+[Best Practices for Scientific Computing.  Grep Wilson *et al.* 2014](https://doi.org/10.1371/journal.pbio.1001745)  
 [Good enough practices in scientific computing, Greg Wilson *et al.*  2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
